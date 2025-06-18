@@ -1,4 +1,4 @@
-Use Bank locations as an Instance.
+Used Bank locations as an Instance.
 
 Architectural Diagram:
 
